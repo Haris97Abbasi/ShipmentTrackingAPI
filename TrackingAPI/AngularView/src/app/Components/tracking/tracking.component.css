@@ -1,0 +1,20 @@
+.bg-container {
+    background-color: #f8f9fa; /* light grey background */
+    border-radius: 8px;
+    padding: 20px;
+  }
+  
+  form {
+    max-width: 600px;
+  }
+  
+  /* Style table and form elements for a polished look */
+  table.table-bordered {
+    background-color: white;
+    border-radius: 5px;
+  }
+  
+  h2, h3, h4 {
+    color: #007bff;
+  }
+  

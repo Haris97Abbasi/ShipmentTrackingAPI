@@ -1,0 +1,4 @@
+﻿# Ignore configuration file with sensitive data
+appsettings.json
+bin/
+obj/
